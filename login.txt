@@ -1,2 +1,8 @@
 HELLO TEAM -04
 Cdd Project
+hi
+#include<stdio.h>
+int main(){
+    printf("Hello World");
+    return 0;
+}
